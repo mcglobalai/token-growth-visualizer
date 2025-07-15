@@ -1,0 +1,6 @@
+matplotlib>=3.4
+pandas
+requests
+pillow
+tqdm
+python-dotenv 
